@@ -1,0 +1,21 @@
+#quotes{
+    text-align: center;
+    background-color: teal;
+}
+h1{
+    
+    font-family: 'Montserrat-bold', sans-serif;
+    color: orangered;
+}
+.quote-name{
+    font-family: 'Montserrat-bold', sans-serif;
+    color: azure;
+}
+.quote-image{
+    width: 10%;
+    border-radius: 100%;
+    border: 2px,solid,white;
+}
+.quote-name{
+    color: aliceblue;
+}
